@@ -1,0 +1,1 @@
+Use Tax Calculator web app. Upload every file in this folder to any HTTPS static host (GitHub Pages, Netlify, Cloudflare Pages). Then open the URL in Safari on iPhone, tap Share, then Add to Home Screen.
